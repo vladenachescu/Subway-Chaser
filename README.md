@@ -1,3 +1,23 @@
+# 🏃‍♂️ Subway Chaser: Cursa spre laboratorul domnului Drăgan
+
+## 🎯 Descriere generală
+
+Acesta este un joc de tip **Subway Surfers**, în care jucătorul trebuie să ajungă la **stația de metrou**, atingând un scor țintă înainte să se termine **energia** sau viața (**HP-ul**).
+
+Pe parcursul cursei, jucătorul poate **colecta băuturi energizante 🧃** pentru a-și reface energia și a menține ritmul de deplasare.
+
+În același timp, trebuie să **evite obstacolele** de pe traseu.  
+Fiecare coliziune duce la pierderea unei părți din HP, iar dacă jucătorul se lovește de prea multe ori, **întârzie la laboratorul domnului Drăgan**, iar jocul se încheie.
+
+Dacă **energia** scade la 0, personajul nu mai poate continua deplasarea, iar jocul este considerat un eșec.
+
+---
+
+## 🧠 Obiectiv final
+
+Atingerea scorului necesar pentru a ajunge la **stația de metrou**, evitând obstacolele și menținând un nivel minim de **energie** și **HP** pe tot parcursul jocului.
+
+
 # Nu primesc notă pentru că nu am pus titlu și descriere
 
 ### Folosiți template-ul corespunzător grupei voastre!
